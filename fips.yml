@@ -1,0 +1,10 @@
+#
+# fips-spirvcross
+#
+---
+exports:
+    header-dirs:
+        - SPIRV-Cross
+    modules:
+        spirvcross: .
+
